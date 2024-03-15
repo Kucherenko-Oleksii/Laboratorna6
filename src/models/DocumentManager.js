@@ -1,4 +1,3 @@
-import { str } from "ajv";
 import CMessages from "../managers/CMessages";
 
 export default class DocumentManager {
